@@ -24,6 +24,7 @@ Odisha Yatri simulates a real-world ride-booking platform (similar to Ola/Uber) 
 1. **Data Cleaning — Excel**-
    ## DataSet Used
    - <a href="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/odisha_yatri%20dataset.csv">Booking Dataset<\a>
+     
    Cleaned the raw ride-booking dataset: handled missing values, fixed inconsistent formatting, removed duplicates, and standardized fields (dates, payment methods, status labels) before loading into the database.
 
 3. **Data Querying & Analysis — PostgreSQL (SQL)**
