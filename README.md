@@ -21,13 +21,11 @@ Odisha Yatri simulates a real-world ride-booking platform (similar to Ola/Uber) 
 
 ## 🔄 Project Workflow
 
-1. **Data Cleaning — Excel**-
-   ## DataSet Used
-   - <a href="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/odisha_yatri%20dataset.csv">Booking Dataset</a>
-     
+1. **Data Cleaning — Excel**-     
    Cleaned the raw ride-booking dataset: handled missing values, fixed inconsistent formatting, removed duplicates, and standardized fields (dates, payment methods, status labels) before loading into the database.
+   - <a href="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/odisha_yatri%20dataset.csv">Booking Dataset</a>
 
-2. **Data Querying & Analysis — PostgreSQL (SQL)**
+3. **Data Querying & Analysis — PostgreSQL (SQL)**
    
    Loaded the cleaned data into PostgreSQL as the `odisha_yatri` table and wrote SQL queries to answer key business questions — booking trends, cancellations by customer/driver, revenue by payment method, top customers, and rating patterns.
    - <a href="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/final_sql_project.sql">SQL Queries</a>
@@ -64,9 +62,6 @@ Odisha Yatri simulates a real-world ride-booking platform (similar to Ola/Uber) 
 - Date slicer
 
 ## 🗃️ Data Model
-
-The report connects to a single PostgreSQL table: **`public.odisha_yatri`**
-
 Key fields used across the dashboard:
 
 | Column | Description |
@@ -114,6 +109,9 @@ This project was completed as part of the final-year MCA capstone requirement, d
 4. Use the Date slicer on each page to filter by time period
 
 ## Documentation
-- <a herf="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/RajeshBiswal_Final_year_Documentation.pdf">Docu</a>
+- <a href="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/RajeshBiswal_Final_year_Documentation.pdf">Docu</a>
+
+## Presentation
+- <a href="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/2405281020_Rajesh%20Biswal.pptx">ppt<a/>
 
 Built with Excel, PostgreSQL, and Power BI as part of an MCA Data Analytics capstone project.*
