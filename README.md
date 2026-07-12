@@ -114,6 +114,6 @@ This project was completed as part of the final-year MCA capstone requirement, d
 4. Use the Date slicer on each page to filter by time period
 
 ## Documentation
-- <a herf=""
+- <a herf="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/RajeshBiswal_Final_year_Documentation.pdf">Docu</a>
 
 Built with Excel, PostgreSQL, and Power BI as part of an MCA Data Analytics capstone project.*
