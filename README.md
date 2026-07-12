@@ -30,6 +30,7 @@ Odisha Yatri simulates a real-world ride-booking platform (similar to Ola/Uber) 
 2. **Data Querying & Analysis — PostgreSQL (SQL)**
    
    Loaded the cleaned data into PostgreSQL as the `odisha_yatri` table and wrote SQL queries to answer key business questions — booking trends, cancellations by customer/driver, revenue by payment method, top customers, and rating patterns.
+   - <a herf="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/final_sql_project.sql">SQL Queries ✅</a>
 
 5. **Dashboard Development — Power BI**
    Connected Power BI directly to the PostgreSQL table and built a 5-page interactive report with DAX measures for KPIs like cancellation rate and revenue aggregation.
