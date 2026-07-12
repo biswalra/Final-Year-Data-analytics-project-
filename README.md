@@ -34,7 +34,7 @@ Odisha Yatri simulates a real-world ride-booking platform (similar to Ola/Uber) 
 
 5. **Dashboard Development — Power BI**
    Connected Power BI directly to the PostgreSQL table and built a 5-page interactive report with DAX measures for KPIs like cancellation rate and revenue aggregation.
-   - <a
+   - <a href="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/finalyear%20power_bi%20project.pbix">Power_BI<a/>
 
 ## 📊 Dashboard Pages
 ### 1. Overall
@@ -108,7 +108,7 @@ This project was completed as part of the final-year MCA capstone requirement, d
 
 ## ▶️ How to View the Dashboard
 
-1. Download 
+1. Download  - <a href="https://github.com/biswalra/Final-Year-Data-analytics-project-/blob/main/finalyear%20power_bi%20project.pbix">Final_Project<a/>
 2. Open it in **Power BI Desktop** (free download from Microsoft)
 3. Use the page tabs at the bottom to navigate between Overall, Vehicle Type, Revenue, Cancellation, and Ratings views
 4. Use the Date slicer on each page to filter by time period
